@@ -35,9 +35,9 @@
   - 动图 GIF：`https://www.chuang.ru/assets/logo.gif`
   - 深色 PNG：`https://www.chuang.ru/assets/b.png`
   - 浅色 PNG：`https://www.chuang.ru/assets/w.png`
-  - 方形 PNG：`https://www.chuang.ru/assets/travelling.png`
-  - 方深 PNG：`https://www.chuang.ru/assets/travelling-dark.png`
-  - 方浅 PNG：`https://www.chuang.ru/assets/travelling-light.png`
+  - 方形 PNG：`https://www.chuang.ru/assets/chuang.png`
+  - 方深 PNG：`https://www.chuang.ru/assets/chuang-dark.png`
+  - 方浅 PNG：`https://www.chuang.ru/assets/chuang-light.png`
   - 矢量 SVG：`https://www.chuang.ru/assets/logo.svg`
   - 💡 参考代码：（logo.gif 可替换为上方的其他图片，以适应您的网页主题；width 可限制图片的大小，让徽标看起来更合适。）
 
